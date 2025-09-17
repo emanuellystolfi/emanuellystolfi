@@ -16,3 +16,9 @@ Aqui no meu GitHub compartilho projetos, estudos e ideias em desenvolvimento.
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+---
+
+✨ “Sempre aprendendo e evoluindo com cada projeto!” ✨  
+
+🙏 Obrigada por visitar meu perfil ❤️
